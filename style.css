@@ -1,0 +1,19 @@
+body {
+    background-image: url('Smoke-Background.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    color:rgb(1, 70, 131);
+}
+
+p {
+    color:hsl(0, 0%, 100%)
+}
+
+button {
+    background-color:darkblue; 
+    color:azure;
+}
+
